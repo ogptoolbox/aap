@@ -1,10 +1,10 @@
 # Site settings
-title: The Story Hunt
-email: info@thestoryhunt.de
-url: https://storyhunt.de/
-description: "'The Story Hunt: Uncover the EU' is a programme by Datenschule and OpenBudgets of Open Knowledge Foundation. It comprises five workshops and a weekend-expedition. Join now and hunt for stories in financial data!"
-skills: "Uncover the EU"
-meta_author: Open Knowledge Foundation Germany
+title: L'observatoire de la visibilité LGBT dans la tech 
+email: hello@lwtparis.fr
+url: https://lwt-index.fr
+description: "Projet collaboratif de Lesbians Who Tech Paris visant à mesurer collectivement comment améliorer la visibilité des lesbiennes et personnes LGBT dans la tech en France. "
+skills: "Observatoire de la visibilité"
+meta_author: Lesbians Who Tech Paris 
 
 # Google webmaster tools
 google_verify:
@@ -39,20 +39,19 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/okfde
+    url: http://twitter.com/LwTechParis
   - title: mail
-    url: mailto:info@storyhunt.de
+    url: mailto:hello@lwtparis.fr
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Singerstraße 109
-  - line: 10179 Berlin
+  - line: LWT Paris Summit
+  - line: Paris
 
 # Credits content
-credits: 'Open Knowledge Foundation Germany'
+credits: 'Lesbians Who Tech Paris'
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-
