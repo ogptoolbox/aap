@@ -1,2 +1,2 @@
-{% includes css/bootstrap.min.css %}
-{% includes css/main.css %}
+{% include css/bootstrap.min.css %}
+{% include css/main.css %}
