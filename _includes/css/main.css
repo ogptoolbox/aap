@@ -94,7 +94,7 @@ header .container {
 
 .container-logo {
     position: absolute;
-    margin-left: -60px;
+    /**margin-left: -60px;**/
     margin-top: 3px;
 }
 
@@ -509,7 +509,7 @@ footer .footer-below {
 
 .parallax {
     /* The image used */
-    background-image: url("/img/DPP_0002.JPG");
+    background-image: url("/lwt-index/img/DPP_0002.JPG");
 
     /* Set a specific height */
     height: 500px;
@@ -523,7 +523,7 @@ footer .footer-below {
 
 .parallax1 {
     /* The image used */
-    background-image: url("/img/DPP_0011.JPG");
+    background-image: url("/lwt-index/img/DPP_0011.JPG");
 
     /* Set a specific height */
     height: 500px;
@@ -537,7 +537,7 @@ footer .footer-below {
 
 .parallax2 {
     /* The image used */
-    background-image: url("/img/DPP_0014.JPG");
+    background-image: url("/lwt-index/img/DPP_0014.JPG");
 
     /* Set a specific height */
     height: 500px;
@@ -551,7 +551,7 @@ footer .footer-below {
 
 .parallax3 {
     /* The image used */
-    background-image: url("/img/DPP_0015.JPG");
+    background-image: url("/lwt-index/img/DPP_0015.JPG");
 
     /* Set a specific height */
     height: 500px;
@@ -565,7 +565,7 @@ footer .footer-below {
 
 .parallax4 {
     /* The image used */
-    background-image: url("/img/DPP_0015.JPG");
+    background-image: url("/lwt-index/img/DPP_0015.JPG");
 
     /* Set a specific height */
     height: 500px;
