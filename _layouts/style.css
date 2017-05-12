@@ -1,2 +1,2 @@
-{% include css/bootstrap.min.css | prepend: lwt-index.baseurl %}
-{% include css/main.css | prepend: lwt-index.baseurl %}
+{% include | prepend: lwt-index.baseurl css/bootstrap.min.css %}
+{% include | prepend: lwt-index.baseurl css/main.css %}
