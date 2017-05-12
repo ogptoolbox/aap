@@ -1,2 +1,2 @@
-{% include lwt-index.baseurl/css/bootstrap.min.css %}
-{% include lwt-index.baseurl/css/main.css %}
+{% include css/bootstrap.min.css %}
+{% include css/main.css %}
