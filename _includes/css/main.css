@@ -537,14 +537,14 @@ footer .footer-below {
 
 .parallax2 {
     /* The image used */
-    background-image: url("/lwt-index/img/DPP_0014.JPG");
+    background-image: url("/lwt-index/img/DPP_0011.JPG");
 
     /* Set a specific height */
-    height: 500px;
+    height: 800px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: center;
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
 }
