@@ -1,9 +1,9 @@
 # Site settings
-title: "Observatoire de diversité LGBT dans la tech" 
-email: hello@lwtparis.fr
-url: https://lwt-index.fr
-description: "Projet collaboratif de Lesbians Who Tech Paris visant à mesurer collectivement comment améliorer la visibilité des lesbiennes et personnes LGBT dans la tech en France. "
-skills: "Observatoire de la visibilité"
+title: "Outiller CAFDO" 
+email: hello@ogptoolbox.fr
+url: https://cecilaki.github.io/
+description: "Presentation du projet Outiller CAFDO"
+skills: "Outiller"
 meta_author: Lesbians Who Tech Paris 
 
 # Google webmaster tools
@@ -39,18 +39,18 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/LwTechParis
+    url: http://twitter.com/ogptoolbox
   - title: mail
-    url: mailto:hello@lwtparis.fr
+    url: mailto:cecile@datactivi.st
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: LWT Paris Summit
+  - line: OGP Toolbox
   - line: Paris
 
 # Credits content
-credits: 'Lesbians Who Tech Paris'
+credits: 'OGP Toolbox & Ecole des Donnees'
 
 # Build settings
 markdown: kramdown
