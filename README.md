@@ -1,2 +1,3 @@
-# lwt-index
-Observatoire de la visibilité LGBT au travail
+# Outiller CAFDO
+
+Pour changer le logo > nav.html
