@@ -142,10 +142,11 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 1.9em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        line-height: 30px;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -153,7 +154,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 }
 
@@ -509,7 +510,7 @@ footer .footer-below {
 
 .parallax {
     /* The image used */
-    background-image: url("/outiller-cafdo/img/postit-wall.jpg");
+    background-image: url("/img/postit-wall.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -523,7 +524,7 @@ footer .footer-below {
 
 .parallax1 {
     /* The image used */
-    background-image: url("/outiller-cafdo/img/cover_invitation.jpg");
+    background-image: url("/img/cover_invitation.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -537,7 +538,7 @@ footer .footer-below {
 
 .parallax2 {
     /* The image used */
-    background-image: url("/outiller-cafdo/img/postit-wall.jpg");
+    background-image: url("/img/postit-wall.jpg");
 
     /* Set a specific height */
     height: 800px;
@@ -551,7 +552,7 @@ footer .footer-below {
 
 .parallax3 {
     /* The image used */
-    background-image: url("/outiller-cafdo/img/postit-wall.jpg");
+    background-image: url("/img/postit-wall.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -565,7 +566,7 @@ footer .footer-below {
 
 .parallax4 {
     /* The image used */
-    background-image: url("/outiller-cafdo/img/postit-wall.jpg");
+    background-image: url("/img/postit-wall.jpg");
 
     /* Set a specific height */
     height: 500px;

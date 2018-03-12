@@ -1,10 +1,10 @@
 # Site settings
-title: "Outiller CAFDO" 
-email: hello@ogptoolbox.fr
-url: https://cecilaki.github.io/
-description: "Presentation du projet Outiller CAFDO"
+title: "Outiller la Communauté d'Afrique francophone des données ouvertes"
+email: info@ogptoolbox.org
+url: blog.ogptoolbox.org
+description: "Presentation du projet Outiller la CAFDO"
 skills: "Outiller"
-meta_author: OGP Toolbox 
+meta_author: OGP Toolbox
 
 # Google webmaster tools
 google_verify:
@@ -38,10 +38,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/ogptoolbox
-  - title: mail
-    url: mailto:cecile@datactivi.st
+  - title: Twitter
+    url: http://twitter.com/OGPToolbox
+  - title: E-mail
+    url: mailto:info@ogptoolbox.org
 
 
 # Postal address (add as many lines as necessary)
