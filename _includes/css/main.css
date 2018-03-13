@@ -149,9 +149,9 @@ header .intro-text .skills {
         color: #000000;
     }
 
-    .navbar-fixed-top.navbar-shrink {
+    /*.navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
-    }
+    }*/
 
     /*.navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.2em;
@@ -192,17 +192,17 @@ section h2 {
 
 section.success {
     color: #ffffff;
-    background: #{{ site.color.primary }};
+    background: #EEEEEE;
 }
 
 section.success2 {
     color: #ffffff;
-    background: #{{ site.color.primary }};
+    background: #3E636B;
 }
 
 section.success3 {
     color: #ffffff;
-    background: #f8be3b;
+    background: #B0545C;
 }
 
 @media (max-width: 767px) {
