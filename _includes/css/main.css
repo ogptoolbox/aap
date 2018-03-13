@@ -511,7 +511,7 @@ footer .footer-below {
 
 .parallax {
     /* The image used */
-    background-image: url("/img/OGP16_hackathon.jpg");
+    background-image: url("{{ site.baseurl }}/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -525,7 +525,7 @@ footer .footer-below {
 
 .parallax1 {
     /* The image used */
-    background-image: url("/img/cover_invitation.jpg");
+    background-image: url("{{ site.baseurl }}/img/cover_invitation.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -539,7 +539,7 @@ footer .footer-below {
 
 .parallax2 {
     /* The image used */
-    background-image: url("/img/OGP16_hackathon.jpg");
+    background-image: url("{{ site.baseurl }}/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 800px;
@@ -553,7 +553,7 @@ footer .footer-below {
 
 .parallax3 {
     /* The image used */
-    background-image: url("/img/OGP16_hackathon.jpg");
+    background-image: url("{{ site.baseurl }}/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -567,7 +567,7 @@ footer .footer-below {
 
 .parallax4 {
     /* The image used */
-    background-image: url("/img/OGP16_hackathon.jpg");
+    background-image: url("{{ site.baseurl }}/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 500px;
