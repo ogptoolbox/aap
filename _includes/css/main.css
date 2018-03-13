@@ -142,7 +142,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 1.9em;
+        font-size: 2.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -160,7 +160,6 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
 }
@@ -173,8 +172,9 @@ header .intro-text .skills {
     letter-spacing: 1px;
 }
 
-.navbar .navbar-nav li a:focus {
+.navbar .navbar-nav li a {
     outline: 0;
+    color: #000000 !important;
 }
 
 .navbar-default,
@@ -415,7 +415,7 @@ footer .footer-below {
 }
 
 .nav-mark a {
-    color: #87BDEE !important;
+    color: #000000;
 }
 
 .scroll-top {
@@ -499,7 +499,7 @@ footer .footer-below {
 }
 
 .navbar-nav > .active > a {
-    background-color: #{{ site.color.secondary }} !important;
+    background-color: #{{ site.color.secondary }};
 }
 
 /* Fix modal mouse wheel issues */
@@ -511,7 +511,7 @@ footer .footer-below {
 
 .parallax {
     /* The image used */
-    background-image: url("/img/postit-wall.jpg");
+    background-image: url("/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -539,7 +539,7 @@ footer .footer-below {
 
 .parallax2 {
     /* The image used */
-    background-image: url("/img/postit-wall.jpg");
+    background-image: url("/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 800px;
@@ -553,7 +553,7 @@ footer .footer-below {
 
 .parallax3 {
     /* The image used */
-    background-image: url("/img/postit-wall.jpg");
+    background-image: url("/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -567,7 +567,7 @@ footer .footer-below {
 
 .parallax4 {
     /* The image used */
-    background-image: url("/img/postit-wall.jpg");
+    background-image: url("/img/OGP16_hackathon.jpg");
 
     /* Set a specific height */
     height: 500px;
