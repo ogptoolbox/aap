@@ -528,7 +528,7 @@ footer .footer-below {
 
 .parallax1 {
     /* The image used */
-    background-image: url("{{ site.baseurl }}/img/cover_invitation.jpg");
+    background-image: url("{{ site.baseurl }}/img/postit-wall.jpg");
 
     /* Set a specific height */
     height: 500px;
