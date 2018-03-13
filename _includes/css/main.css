@@ -147,6 +147,7 @@ header .intro-text .skills {
         -moz-transition: all .3s;
         transition: all .3s;
         line-height: 30px;
+        color: #000000;
     }
 
     .navbar-fixed-top.navbar-shrink {
