@@ -200,12 +200,12 @@ section.success {
 
 section.success2 {
     color: #ffffff;
-    background: #3E636B;
+    background: #2a7ab7;
 }
 
 section.success3 {
     color: #ffffff;
-    background: #B0545C;
+    background: #b0545c;
 }
 
 @media (max-width: 767px) {
