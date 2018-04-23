@@ -1,8 +1,8 @@
 # Site settings
-title: "Outiller la CAFDO – Appel à projets"
-email: info@ogptoolbox.org
-url: blog.ogptoolbox.org
-description: "Outiller la CAFDO"
+title: "Outiller la communauté africaine francophone - Appel à projets 2018"
+email: aap@ogptoolbox.org
+url: aap.ogptoolbox.org
+description: "Outiller la communauté africaine francophone"
 skills: "Outiller"
 meta_author: OGP Toolbox
 
@@ -39,9 +39,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: Twitter
-    url: http://twitter.com/OGPToolbox
+    url: http://twitter.com/OGPtoolbox
   - title: E-mail
-    url: mailto:info@ogptoolbox.org
+    url: mailto:aap@ogptoolbox.org
 
 
 # Postal address (add as many lines as necessary)
